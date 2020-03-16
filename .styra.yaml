@@ -1,0 +1,6 @@
+checks:
+  foo:
+    system_id: ed54ec419d4349f7a2e0817dc2602a10
+    policy: admission_control
+    files:
+      - - ./k8s/*.yaml
